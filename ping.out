@@ -1,0 +1,7 @@
+PING alexland.ca (107.170.223.143): 56 data bytes
+64 bytes from 107.170.223.143: icmp_seq=0 ttl=57 time=32.712 ms
+
+--- alexland.ca ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 32.712/32.712/32.712/0.000 ms
+Sat May  9 12:25:00 PDT 2015
